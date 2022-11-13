@@ -1,0 +1,15 @@
+
+
+.img {
+    max-width: 100%;
+    height: auto;
+    /* padding-left: 130px; */
+    width: 1000%;
+    height: 600px;
+    
+}
+.home:hover{
+    color: black;
+    font-size: 25px;
+    text-decoration: underline;
+}
